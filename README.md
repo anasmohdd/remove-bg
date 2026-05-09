@@ -172,12 +172,3 @@ npm run build
 
 ---
 
-## ⚠️ Common Issues
-
-| Problem | Solution |
-|---------|----------|
-| `REMOVE_BG_API_KEY` missing | Add key to `server/.env` |
-| 402 error | Free API credits used up — get more at remove.bg |
-| CORS error | Make sure both servers are running; check `CLIENT_URL` in `.env` |
-| Image not loading | Use JPG/PNG/WebP under 25 MB |
-| Crop not working | Enable crop in editor, then drag to select area |
