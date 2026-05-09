@@ -162,13 +162,4 @@ npm run build
 
 ---
 
-## 💡 Customization Tips
-
-- **Change API provider** — swap `routes/remove.js` to use a different API (e.g. PhotoRoom, Clipdrop)
-- **Add auth** — add JWT middleware in `server/index.js`
-- **Add history** — store results in localStorage on the frontend
-- **Change branding** — update colors in `client/src/index.css` (CSS variables in `:root`)
-- **Deploy** — frontend → Vercel/Netlify, backend → Railway/Render
-
----
 
